@@ -8,3 +8,6 @@ Loops_ Animal Parade Fall 2020 UCSD Version ----------- https://youtu.be/L95LHI0
 
 
 Write and Explain a program: Nested Repeats6 ----------- https://youtu.be/ZUcfovzqYnw
+
+
+No I missed a banana ----------- https://youtu.be/T84PVcS3lIg
