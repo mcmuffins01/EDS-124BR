@@ -14,3 +14,6 @@ No I missed a banana ----------- https://youtu.be/T84PVcS3lIg
 
 
 Variables_Write a Porgram ----------- https://youtu.be/O8E-jPQ46Eg
+
+
+Conditional loop.xml ----------- https://youtu.be/JebwVBZja7Q
