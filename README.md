@@ -23,3 +23,6 @@ If else write a program..xml ----------- https://youtu.be/xS22y-i55Z4
 
 
 Nested If_Else.xml ----------- https://youtu.be/HX0h3DqvM5s
+
+
+Compound Conditionals.xml ----------- https://youtu.be/_4ecJT2v1LE
