@@ -26,3 +26,6 @@ Nested If_Else.xml ----------- https://youtu.be/HX0h3DqvM5s
 
 
 Compound Conditionals.xml ----------- https://youtu.be/_4ecJT2v1LE
+
+
+Abstraction.xml ----------- https://youtu.be/nC_uH-qsWCg
