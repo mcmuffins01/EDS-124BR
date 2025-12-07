@@ -29,3 +29,6 @@ Compound Conditionals.xml ----------- https://youtu.be/_4ecJT2v1LE
 
 
 Abstraction.xml ----------- https://youtu.be/nC_uH-qsWCg
+
+
+Lists.xml  ----------- https://youtu.be/fLd3YKg5WX0
